@@ -1,0 +1,6 @@
+{
+  "serverPort" : 8000,
+  "dbUrl": "mongodb+srv://cloud_disk:@cloud.91g1g.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "cern-secket-key",
+  "filePath": "C:\\Users\\any\\Desktop\\cern-cloud-disk\\server\\files"
+}
